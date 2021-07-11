@@ -1,0 +1,104 @@
+{
+    "best-products": [
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Chicken Radicchio Sauce",
+        "harga": 53000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/Hn3Vs8mC/chicken-radicchio-sauce.jpg"
+      },
+      {
+        "id": 4,
+        "kode": "K-04",
+        "nama": "Cinnamon Granola",
+        "harga": 32000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/LX8dFJxP/cinnamon-granola.jpg"
+      },
+      {
+        "id": 5,
+        "kode": "K-05",
+        "nama": "Fried Rice Plate White",
+        "harga": 35000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/266tXP5F/fried-rice-plate-white.jpg"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Avocado Toast",
+        "harga": 16000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/ZnQVgRQJ/avocado-toast.jpg"
+      },
+      {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Blueberry Yoghurt",
+        "harga": 24000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/SxPYM9MS/blueberry-yoghurt.jpg"
+      },
+      {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Chicken Radicchio Sauce",
+        "harga": 53000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/Hn3Vs8mC/chicken-radicchio-sauce.jpg"
+      },
+      {
+        "id": 4,
+        "kode": "K-04",
+        "nama": "Cinnamon Granola",
+        "harga": 32000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/LX8dFJxP/cinnamon-granola.jpg"
+      },
+      {
+        "id": 5,
+        "kode": "K-05",
+        "nama": "Fried Rice Plate White",
+        "harga": 35000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/266tXP5F/fried-rice-plate-white.jpg"
+      },
+      {
+        "id": 6,
+        "kode": "K-06",
+        "nama": "Fruit Salad Choco Milk",
+        "harga": 30000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/t4bpm4G3/fruit-salad-choco-milk.jpg"
+      },
+      {
+        "id": 7,
+        "kode": "K-07",
+        "nama": "Glutten Free Waffle",
+        "harga": 27000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/PrsjP5xg/gluten-free-waffle.jpg"
+      },
+      {
+        "id": 8,
+        "kode": "K-08",
+        "nama": "Loaded Chicken Pumpkin Salad",
+        "harga": 38000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/kgw31NcC/loaded-chicken-pumpkin-salad.jpg"
+      },
+      {
+        "id": 9,
+        "kode": "K-09",
+        "nama": "Nonnas Spaghettie Bolognaise",
+        "harga": 43000,
+        "is_ready": true,
+        "gambar": "https://i.postimg.cc/0QMTyTq5/nonnas-spaghettie-bolognaise.jpg"
+      }
+    ],
+    "keranjangs": [],
+    "pesanans": []
+  }
